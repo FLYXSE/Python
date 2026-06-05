@@ -1,0 +1,81 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="aiogram" />
+          <option value="aiohttp" />
+          <option value="aiosignal" />
+          <option value="anyio" />
+          <option value="async-timeout" />
+          <option value="attrs" />
+          <option value="autocommand" />
+          <option value="Babel" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="cheroot" />
+          <option value="CherryPy" />
+          <option value="coinbase" />
+          <option value="colorama" />
+          <option value="decorator" />
+          <option value="dnspython" />
+          <option value="email-validator" />
+          <option value="exceptiongroup" />
+          <option value="frozenlist" />
+          <option value="glqiwiapi" />
+          <option value="h11" />
+          <option value="h2" />
+          <option value="hpack" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="hypercorn" />
+          <option value="hyperframe" />
+          <option value="idna" />
+          <option value="inflect" />
+          <option value="iniconfig" />
+          <option value="ipaddress" />
+          <option value="jaraco.classes" />
+          <option value="jaraco.collections" />
+          <option value="jaraco.context" />
+          <option value="jaraco.functools" />
+          <option value="jaraco.text" />
+          <option value="loguru" />
+          <option value="magic-filter" />
+          <option value="more-itertools" />
+          <option value="multidict" />
+          <option value="packaging" />
+          <option value="phonenumbers" />
+          <option value="pluggy" />
+          <option value="portend" />
+          <option value="priority" />
+          <option value="pycryptodome" />
+          <option value="pydantic" />
+          <option value="pyQiwiP2P" />
+          <option value="pytest" />
+          <option value="python-dotenv" />
+          <option value="pytz" />
+          <option value="requests" />
+          <option value="response-report" />
+          <option value="rfc3986" />
+          <option value="six" />
+          <option value="sniffio" />
+          <option value="starlette" />
+          <option value="tempora" />
+          <option value="toml" />
+          <option value="tomli" />
+          <option value="typing" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="urllib3" />
+          <option value="validators" />
+          <option value="win32-setctime" />
+          <option value="wsproto" />
+          <option value="yarl" />
+          <option value="YooMoney" />
+          <option value="zc.lockfile" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

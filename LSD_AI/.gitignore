@@ -1,0 +1,25 @@
+# Environment
+.env
+venv/
+env/
+ENV/
+
+# Telethon session
+*.session
+*.session-journal
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log

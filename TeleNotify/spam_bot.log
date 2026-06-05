@@ -1,0 +1,517 @@
+2026-04-22 23:57:03,661 - INFO - Connecting to 149.154.167.40:80/TcpFull...
+2026-04-22 23:57:03,698 - INFO - Connection to 149.154.167.40:80/TcpFull complete!
+2026-04-22 23:57:03,997 - INFO - Начинаем процесс рассылки...
+2026-04-22 23:57:03,998 - INFO - Установлена задержка между сообщениями: 2 секунд
+2026-04-22 23:57:05,307 - INFO - Найдено 407 диалогов для обработки
+2026-04-22 23:57:05,308 - INFO - [1/407] Пропускаем бота: Farid @kwiken panel
+2026-04-22 23:57:05,308 - INFO - [2/407] Пропускаем бота: NFTGifter Bot
+2026-04-22 23:57:05,398 - INFO - [3/407] Успешно отправлено в: Unsupported characters
+2026-04-22 23:57:05,400 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:07,469 - INFO - [4/407] Успешно отправлено в: ᴋᴡɪᴋᴇɴ
+2026-04-22 23:57:07,469 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:08,588 - INFO - Got difference for channel 2200648198 updates
+2026-04-22 23:57:09,550 - INFO - [5/407] Успешно отправлено в: Подвал Узника
+2026-04-22 23:57:09,551 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:11,562 - INFO - [6/407] Пропускаем бота: TempMail
+2026-04-22 23:57:11,633 - INFO - [7/407] Успешно отправлено в: Unsupported characters Chat
+2026-04-22 23:57:11,633 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:13,695 - ERROR - [8/407] Ошибка отправки в psl chat yo: RPCError 403: ALLOW_PAYMENT_REQUIRED_1 (caused by SendMessageRequest)
+2026-04-22 23:57:13,744 - ERROR - [9/407] Ошибка отправки в PSL | Penis Secret Lab: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:57:13,745 - INFO - [10/407] Пропускаем бота: Chat ID Bot
+2026-04-22 23:57:13,746 - INFO - [11/407] Пропускаем бота: BotFather
+2026-04-22 23:57:13,811 - INFO - [12/407] Успешно отправлено в: адмиралова
+2026-04-22 23:57:13,812 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:15,873 - ERROR - [13/407] Ошибка отправки в Giveaways: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:57:15,959 - INFO - [14/407] Успешно отправлено в: swvxm
+2026-04-22 23:57:15,959 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:18,007 - ERROR - [15/407] Ошибка отправки в blog: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:57:18,070 - INFO - [16/407] Успешно отправлено в: #ностигли [нн)
+2026-04-22 23:57:18,071 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:20,165 - INFO - [17/407] Успешно отправлено в: Крутой чатик xie world с крутыми 😎 и умными 🤓 людьми
+2026-04-22 23:57:20,166 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:22,254 - INFO - [18/407] Успешно отправлено в: Чатик🍭
+2026-04-22 23:57:22,254 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:24,312 - ERROR - [19/407] Ошибка отправки в lol man life: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:57:24,356 - ERROR - [20/407] Ошибка отправки в VSL | Very Secret Lab: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:57:24,402 - ERROR - [21/407] Ошибка отправки в Anger | APB: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:57:24,467 - INFO - [22/407] Успешно отправлено в: DC 1
+2026-04-22 23:57:24,467 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:26,525 - ERROR - [23/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:57:26,574 - ERROR - [24/407] Ошибка отправки в чат алкоголиков: RPCError 403: ALLOW_PAYMENT_REQUIRED_1 (caused by SendMessageRequest)
+2026-04-22 23:57:26,623 - ERROR - [25/407] Ошибка отправки в казантип2007 x шмурднячок: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:57:26,699 - INFO - [26/407] Успешно отправлено в: ­
+2026-04-22 23:57:26,700 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:28,757 - ERROR - [27/407] Ошибка отправки в ❄️ GiverGifts News ❄️: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:57:28,802 - ERROR - [28/407] Ошибка отправки в Лаконизация навсегда: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:57:28,846 - ERROR - [29/407] Ошибка отправки в Nibroshot official🦅: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:57:28,897 - ERROR - [30/407] Ошибка отправки в 𝐁𝐄𝐓𝐀 𝐍𝐄𝐖𝐒: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:57:28,948 - ERROR - [31/407] Ошибка отправки в xie world: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:57:29,000 - INFO - [32/407] Успешно отправлено в: Multi IDE - обновления
+2026-04-22 23:57:29,000 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:31,097 - INFO - [33/407] Успешно отправлено в: €
+2026-04-22 23:57:31,097 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:33,157 - ERROR - [34/407] Ошибка отправки в ПЕРВЫЙ МЕМНЫЙ: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:57:33,208 - ERROR - [35/407] Ошибка отправки в Хуеплетский канал v3: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:57:33,277 - INFO - [36/407] Успешно отправлено в: тест
+2026-04-22 23:57:33,277 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:35,346 - INFO - [37/407] Успешно отправлено в: чат джпт айти
+2026-04-22 23:57:35,346 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:37,425 - INFO - [38/407] Успешно отправлено в: Your Angel
+2026-04-22 23:57:37,425 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:39,517 - INFO - [39/407] Успешно отправлено в: бехруз
+2026-04-22 23:57:39,518 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:41,619 - INFO - [40/407] Успешно отправлено в: MrQuick Chat
+2026-04-22 23:57:41,620 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:43,667 - ERROR - [41/407] Ошибка отправки в MrQuick: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:57:43,714 - ERROR - [42/407] Ошибка отправки в Loser: RPCError 403: ALLOW_PAYMENT_REQUIRED_1000 (caused by SendMessageRequest)
+2026-04-22 23:57:43,759 - ERROR - [43/407] Ошибка отправки в gift chat 2: You can't write in this chat (caused by SendMessageRequest)
+2026-04-22 23:57:43,807 - ERROR - [44/407] Ошибка отправки в Gift Info: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:57:43,850 - ERROR - [45/407] Ошибка отправки в VeyKap Life: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:57:43,893 - ERROR - [46/407] Ошибка отправки в Блог Лисодева: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:57:43,962 - INFO - [47/407] Успешно отправлено в: mamik
+2026-04-22 23:57:43,963 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:46,034 - INFO - [48/407] Успешно отправлено в: Anger
+2026-04-22 23:57:46,034 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:48,112 - INFO - [49/407] Успешно отправлено в: ᴇɢᴏʀᴏᴠ
+2026-04-22 23:57:48,112 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:50,175 - INFO - [50/407] Успешно отправлено в: Telegram
+2026-04-22 23:57:50,175 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:52,259 - INFO - [51/407] Успешно отправлено в: true halal // ЧАТ НА ТЕСТОВОМ С ЭКОНОМИКОЙ
+2026-04-22 23:57:52,259 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:54,272 - INFO - [52/407] Пропускаем бота: FoxGiveaway Old
+2026-04-22 23:57:54,339 - INFO - [53/407] Успешно отправлено в: 🄵 #test Ronald
+2026-04-22 23:57:54,340 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:56,437 - INFO - [54/407] Успешно отправлено в: helly
+2026-04-22 23:57:56,437 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:58,524 - INFO - [55/407] Успешно отправлено в: root
+2026-04-22 23:57:58,524 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:57:59,088 - INFO - Got difference for account updates
+2026-04-22 23:58:00,584 - INFO - [56/407] Успешно отправлено в: Keneki
+2026-04-22 23:58:00,584 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:02,690 - INFO - [57/407] Успешно отправлено в: Mihuil
+2026-04-22 23:58:02,690 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:04,838 - INFO - [58/407] Успешно отправлено в: [ЭКОНОМИСТ] ℕ𝕆𝕍𝕆𝔾𝕆𝔻ℕ𝕀𝕐 𝔻𝔸ℕ𝕀𝕀𝕃_ℙ𝕃𝔸𝕐🎄
+2026-04-22 23:58:04,838 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:06,968 - INFO - [59/407] Успешно отправлено в: velory
+2026-04-22 23:58:06,969 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:07,532 - INFO - Got difference for account updates
+2026-04-22 23:58:09,103 - INFO - [60/407] Успешно отправлено в: 💰chip and dale
+2026-04-22 23:58:09,103 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:11,185 - INFO - [61/407] Успешно отправлено в: Sanya[Leg] #Hardline[МФК] #Wix khm.
+2026-04-22 23:58:11,186 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:13,281 - INFO - [62/407] Успешно отправлено в: ᴡx0qᴡ ᴄᴏᴍᴇʙᴀᴄᴋ
+2026-04-22 23:58:13,281 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:13,837 - INFO - Got difference for account updates
+2026-04-22 23:58:15,422 - INFO - [63/407] Успешно отправлено в: 🏴‍☠️ 𝙬𝙞𝙣𝙧𝙖𝙧𝙚 𝙣𝙞𝙜𝙝𝙩
+2026-04-22 23:58:15,423 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:17,501 - INFO - [64/407] Успешно отправлено в: 😶‍🌫️𝓣𝓻𝓪5𝓲𝓴😶‍🌫️
+2026-04-22 23:58:17,501 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:19,581 - INFO - [65/407] Успешно отправлено в: пᴀᴘᴀмон моᴘозов
+2026-04-22 23:58:19,581 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:21,688 - INFO - [66/407] Успешно отправлено в: Murcie
+2026-04-22 23:58:21,688 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:22,249 - INFO - Got difference for account updates
+2026-04-22 23:58:23,843 - INFO - [67/407] Успешно отправлено в: флюксов | СВЕРЯЙ ЮЗЕР
+2026-04-22 23:58:23,843 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:25,922 - INFO - [68/407] Успешно отправлено в: Telegram
+2026-04-22 23:58:25,923 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:28,004 - INFO - [69/407] Успешно отправлено в: 🇾🇹 #MEF Я е:б:а:ш:у меф^^/снялчулки +70rep #funredwin #w1loo
+2026-04-22 23:58:28,005 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:30,078 - INFO - [70/407] Успешно отправлено в: Pavel
+2026-04-22 23:58:30,079 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:32,173 - INFO - [71/407] Успешно отправлено в: Иисус Христос
+2026-04-22 23:58:32,173 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:34,177 - INFO - [72/407] Пропускаем бота: Test Bot
+2026-04-22 23:58:34,232 - ERROR - [73/407] Ошибка отправки в Soon...: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:58:34,277 - ERROR - [74/407] Ошибка отправки в ShadowMik: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:58:34,322 - ERROR - [75/407] Ошибка отправки в [T] W0rd3r’s News: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:58:34,389 - INFO - [76/407] Успешно отправлено в: Александр Краснодаров.com
+2026-04-22 23:58:34,390 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:36,453 - ERROR - [77/407] Ошибка отправки в [VM] #ChatGPT: RPCError 403: ALLOW_PAYMENT_REQUIRED_35000 (caused by SendMessageRequest)
+2026-04-22 23:58:36,501 - ERROR - [78/407] Ошибка отправки в какие то публичные сообщения: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:58:36,501 - INFO - [79/407] Пропускаем бота: Chat defense
+2026-04-22 23:58:36,569 - INFO - [80/407] Успешно отправлено в: motka x потiрянный (lol man)
+2026-04-22 23:58:36,570 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:38,584 - INFO - [81/407] Пропускаем бота: Pay Stars
+2026-04-22 23:58:38,584 - INFO - [82/407] Пропускаем бота: Create TGS Sticker
+2026-04-22 23:58:38,685 - INFO - [83/407] Успешно отправлено в: 🇮🇹 Лимба лив
+2026-04-22 23:58:38,685 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:40,801 - INFO - [84/407] Успешно отправлено в: 𝚅𝚒𝚙𝚞𝚣𝚋𝚎𝚔
+2026-04-22 23:58:40,802 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:42,847 - ERROR - [85/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:58:42,916 - INFO - [86/407] Успешно отправлено в: Хфз(SCAM)#Забавныйная
+2026-04-22 23:58:42,917 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:43,267 - INFO - Got difference for account updates
+2026-04-22 23:58:44,993 - INFO - [87/407] Успешно отправлено в: [FUCK] Жизнь страшна.. 🇦🇶
+2026-04-22 23:58:44,993 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:47,012 - INFO - Got difference for account updates
+2026-04-22 23:58:47,080 - INFO - [88/407] Успешно отправлено в: [FOX] PROSKAAAAA
+2026-04-22 23:58:47,081 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:49,197 - INFO - [89/407] Успешно отправлено в: [HRZ] dvd
+2026-04-22 23:58:49,198 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:51,279 - INFO - [90/407] Успешно отправлено в: 🥥
+2026-04-22 23:58:51,279 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:53,332 - ERROR - [91/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:58:53,332 - INFO - [92/407] Пропускаем бота: K5bNBrJU
+2026-04-22 23:58:53,375 - ERROR - [93/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:58:53,375 - INFO - [94/407] Пропускаем бота: [🛡] Onion Assistant
+2026-04-22 23:58:53,375 - INFO - [95/407] Пропускаем бота: EMOJI INFO
+2026-04-22 23:58:53,419 - ERROR - [96/407] Ошибка отправки в 💩: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:58:53,461 - ERROR - [97/407] Ошибка отправки в Логово Тайных Людей: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:58:53,463 - INFO - [98/407] Пропускаем бота: Сосун
+2026-04-22 23:58:53,508 - ERROR - [99/407] Ошибка отправки в Lol Man Вещает: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:58:53,583 - INFO - [100/407] Успешно отправлено в: @NoSign
+2026-04-22 23:58:53,583 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:55,661 - INFO - [101/407] Успешно отправлено в: ⁠⁠⁠⁠ 44⁠surge 44
+2026-04-22 23:58:55,661 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:57,721 - ERROR - [102/407] Ошибка отправки в 🏳️‍⚧️ /home/hukaris/dev_zone.sh | Proda: @tg_beta_vf: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:58:57,722 - INFO - [103/407] Пропускаем бота: Цифровой Рубль Бот
+2026-04-22 23:58:57,793 - INFO - [104/407] Успешно отправлено в: [𝐂𝐑𝐙] 𝐰𝐨𝐦𝐚𝐧𝐢𝐳𝐞𝐫
+2026-04-22 23:58:57,801 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:58:59,853 - ERROR - [105/407] Ошибка отправки в Onion Messages: RPCError 400: REPLY_TO_MONOFORUM_PEER_INVALID (caused by SendMessageRequest)
+2026-04-22 23:58:59,978 - INFO - [106/407] Успешно отправлено в: TEXHO
+2026-04-22 23:58:59,978 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:02,066 - INFO - [107/407] Успешно отправлено в: ⚡️ₖᥱƭ𝒾ₖ|₂₂₀⚡️
+2026-04-22 23:59:02,066 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:04,116 - ERROR - [108/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:04,162 - ERROR - [109/407] Ошибка отправки в TG BETA IOS: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:59:04,243 - INFO - [110/407] Успешно отправлено в: Блог Эрика Messages
+2026-04-22 23:59:04,244 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:06,314 - INFO - [111/407] Успешно отправлено в: cryptov
+2026-04-22 23:59:06,314 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:06,881 - INFO - Got difference for account updates
+2026-04-22 23:59:08,409 - INFO - [112/407] Успешно отправлено в: Блог Фарида чат
+2026-04-22 23:59:08,410 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:10,456 - ERROR - [113/407] Ошибка отправки в IDevs.fun / АЙдевс.фан: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:59:10,456 - INFO - [114/407] Пропускаем бота: НА ПРОДЕ
+2026-04-22 23:59:10,456 - INFO - [115/407] Пропускаем бота: izpremiumbot
+2026-04-22 23:59:10,501 - ERROR - [116/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:10,550 - ERROR - [117/407] Ошибка отправки в vayzov: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:10,602 - ERROR - [118/407] Ошибка отправки в продаю акк.: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:10,681 - INFO - [119/407] Успешно отправлено в: #cool
+2026-04-22 23:59:10,681 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:12,753 - INFO - [120/407] Успешно отправлено в: 1111111
+2026-04-22 23:59:12,753 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:14,830 - INFO - [121/407] Успешно отправлено в: ливнул.
+2026-04-22 23:59:14,830 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:16,931 - INFO - [122/407] Успешно отправлено в: Я в таблетках
+2026-04-22 23:59:16,931 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:17,498 - INFO - Got difference for account updates
+2026-04-22 23:59:18,987 - ERROR - [123/407] Ошибка отправки в Bank 🏦 & Emoji 📦: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:19,043 - ERROR - [124/407] Ошибка отправки в ливаю с теста: RPCError 403: ALLOW_PAYMENT_REQUIRED_35000 (caused by SendMessageRequest)
+2026-04-22 23:59:19,109 - INFO - [125/407] Успешно отправлено в: Borokin
+2026-04-22 23:59:19,110 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:21,164 - ERROR - [126/407] Ошибка отправки в News And Tips: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:59:21,231 - INFO - [127/407] Успешно отправлено в: лис
+2026-04-22 23:59:21,231 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:23,288 - ERROR - [128/407] Ошибка отправки в 【𝗧】: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:59:23,358 - INFO - [129/407] Успешно отправлено в: ферра
+2026-04-22 23:59:23,359 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:25,506 - INFO - [130/407] Успешно отправлено в: Farid
+2026-04-22 23:59:25,506 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:27,513 - INFO - [131/407] Пропускаем бота: FoxGiveaway
+2026-04-22 23:59:27,589 - INFO - [132/407] Успешно отправлено в: #ностигли [нн)
+2026-04-22 23:59:27,590 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:29,649 - ERROR - [133/407] Ошибка отправки в weaxr | началоВремени: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:29,695 - ERROR - [134/407] Ошибка отправки в Vezunchik: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:29,748 - ERROR - [135/407] Ошибка отправки в test: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:29,796 - ERROR - [136/407] Ошибка отправки в nesk: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:29,842 - ERROR - [137/407] Ошибка отправки в Pavel Durov: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:29,890 - ERROR - [138/407] Ошибка отправки в Blood GZ: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:29,936 - ERROR - [139/407] Ошибка отправки в Royal: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:29,984 - ERROR - [140/407] Ошибка отправки в Yaromir: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:30,035 - ERROR - [141/407] Ошибка отправки в Kviziks: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:30,082 - ERROR - [142/407] Ошибка отправки в 🏴‍☠𝘀𝗸𝗲𝗲𝗽 𝗺𝗼𝗿𝗼𝘇𝗼𝘃: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:30,134 - ERROR - [143/407] Ошибка отправки в Check: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:30,182 - ERROR - [144/407] Ошибка отправки в w1nzer [ЧЕМПИОН] 20+rep: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:30,235 - ERROR - [145/407] Ошибка отправки в 🅥 Mr FreeMan: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:30,283 - ERROR - [146/407] Ошибка отправки в w: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:30,328 - ERROR - [147/407] Ошибка отправки в Ikutpi: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:30,381 - ERROR - [148/407] Ошибка отправки в холли: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:30,426 - ERROR - [149/407] Ошибка отправки в Екатерина Ненависть: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:30,473 - ERROR - [150/407] Ошибка отправки в molni | вернулся: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:30,526 - ERROR - [151/407] Ошибка отправки в скупаю акки | менеджер: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:30,573 - ERROR - [152/407] Ошибка отправки в [PP] Гений: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:30,621 - ERROR - [153/407] Ошибка отправки в L1to: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:30,667 - ERROR - [154/407] Ошибка отправки в @: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:30,718 - ERROR - [155/407] Ошибка отправки в Shadowsdark273: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:30,765 - ERROR - [156/407] Ошибка отправки в &t F6K94: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:30,813 - ERROR - [157/407] Ошибка отправки в 𝗦𝗶𝗴𝗺𝗮: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:30,856 - ERROR - [158/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:30,916 - ERROR - [159/407] Ошибка отправки в Yuppy: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:30,965 - ERROR - [160/407] Ошибка отправки в супер друн: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:31,017 - ERROR - [161/407] Ошибка отправки в Killer's Garant 0%: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:31,067 - ERROR - [162/407] Ошибка отправки в Данил Колбасенко: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:31,118 - ERROR - [163/407] Ошибка отправки в 🔥 N A P K O Z 🔥: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:31,169 - ERROR - [164/407] Ошибка отправки в HIIT: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:31,234 - ERROR - [165/407] Ошибка отправки в ᴛᴏxɪss: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:31,287 - ERROR - [166/407] Ошибка отправки в Danirka: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:31,345 - ERROR - [167/407] Ошибка отправки в ПОВЕЛИТЕЛЬ ЭКОНОМИКИ: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:31,399 - ERROR - [168/407] Ошибка отправки в [R] Ethereum Hunter #comeback?: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:31,447 - ERROR - [169/407] Ошибка отправки в БОБРИТО ХУИТО: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:31,496 - ERROR - [170/407] Ошибка отправки в [FUCK] sukuna/ Участник Лиги Безопасного Интернета: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:31,497 - INFO - [171/407] Пропускаем бота: Spam Info Bot
+2026-04-22 23:59:31,544 - ERROR - [172/407] Ошибка отправки в ᴀɜᴀᴩᴛᴏʙ @ScriptHub: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:31,545 - INFO - [173/407] Пропускаем бота: testpremiumbot
+2026-04-22 23:59:31,588 - ERROR - [174/407] Ошибка отправки в Givoways 🎉: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:59:31,633 - ERROR - [175/407] Ошибка отправки в Giveaways: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:59:31,634 - INFO - [176/407] Пропускаем бота: Replies
+2026-04-22 23:59:31,634 - INFO - [177/407] Пропускаем бота: Durger King
+2026-04-22 23:59:31,634 - INFO - [178/407] Пропускаем бота: Сколько у пользователя НЕ ДЮПНУТЫХ НФТ ?
+2026-04-22 23:59:31,634 - INFO - [179/407] Пропускаем бота: Givo
+2026-04-22 23:59:31,635 - INFO - [180/407] Пропускаем бота: Cake Giver Bot (Beta)
+2026-04-22 23:59:31,635 - INFO - [181/407] Пропускаем бота: Тестовый бот
+2026-04-22 23:59:31,681 - ERROR - [182/407] Ошибка отправки в фрарочка :3: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:31,726 - ERROR - [183/407] Ошибка отправки в 🇦🇶 калынбек докс.dsl: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:31,773 - ERROR - [184/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:31,773 - INFO - [185/407] Пропускаем бота: TestCoin
+2026-04-22 23:59:31,822 - ERROR - [186/407] Ошибка отправки в 🌆 Beta Notify: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:59:31,866 - ERROR - [187/407] Ошибка отправки в Check: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:32,183 - INFO - [188/407] Успешно отправлено в: Game Chat
+2026-04-22 23:59:32,183 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:34,231 - ERROR - [189/407] Ошибка отправки в GiftMovements: RPCError 400: TOPIC_CLOSED (caused by SendMessageRequest)
+2026-04-22 23:59:34,232 - INFO - [190/407] Пропускаем бота: XieGiveawayBot
+2026-04-22 23:59:34,281 - ERROR - [191/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:34,329 - ERROR - [192/407] Ошибка отправки в yougame: RPCError 400: TOPIC_CLOSED (caused by SendMessageRequest)
+2026-04-22 23:59:34,330 - INFO - [193/407] Пропускаем бота: Подписчики
+2026-04-22 23:59:34,372 - ERROR - [194/407] Ошибка отправки в JoyPrice: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:59:34,422 - ERROR - [195/407] Ошибка отправки в €: An invalid Peer was used. Make sure to pass the right peer type and that the value is valid (for instance, bots cannot start conversations) (caused by SendMessageRequest)
+2026-04-22 23:59:34,469 - ERROR - [196/407] Ошибка отправки в Check: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:34,469 - INFO - [197/407] Пропускаем бота: Test WebApp
+2026-04-22 23:59:34,513 - ERROR - [198/407] Ошибка отправки в zafiksit: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:59:34,562 - ERROR - [199/407] Ошибка отправки в Akuma: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:34,563 - INFO - [200/407] Пропускаем бота: ShadowMik cazino
+2026-04-22 23:59:34,611 - ERROR - [201/407] Ошибка отправки в mo: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:34,612 - INFO - [202/407] Пропускаем бота: Suggested Attach Bot
+2026-04-22 23:59:34,612 - INFO - [203/407] Пропускаем бота: Crypto Bot
+2026-04-22 23:59:34,658 - ERROR - [204/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:34,729 - INFO - [205/407] Успешно отправлено в: Lolfa
+2026-04-22 23:59:34,729 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:36,785 - ERROR - [206/407] Ошибка отправки в Михаил: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:36,829 - ERROR - [207/407] Ошибка отправки в hikaru: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:36,877 - ERROR - [208/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:36,921 - ERROR - [209/407] Ошибка отправки в калстрой: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:36,972 - ERROR - [210/407] Ошибка отправки в Михалыч: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:37,026 - ERROR - [211/407] Ошибка отправки в [GVN] KNOCKS #STONKS #PENES #TROLLBOSS #GOD #BLESSED #MLG #RICH: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:37,072 - ERROR - [212/407] Ошибка отправки в nulle: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:37,118 - ERROR - [213/407] Ошибка отправки в ыхыхх: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:37,118 - INFO - [214/407] Пропускаем бота: GiverGiftsBot
+2026-04-22 23:59:37,118 - INFO - [215/407] Пропускаем бота: Тонтейк маркетплейс
+2026-04-22 23:59:37,119 - INFO - [216/407] Пропускаем бота: weatherbot
+2026-04-22 23:59:37,119 - INFO - [217/407] Пропускаем бота: Premium Join Bot
+2026-04-22 23:59:37,119 - INFO - [218/407] Пропускаем бота: copro giver
+2026-04-22 23:59:37,119 - INFO - [219/407] Пропускаем бота: Crypto Price
+2026-04-22 23:59:37,119 - INFO - [220/407] Пропускаем бота: Hosting Buy
+2026-04-22 23:59:37,120 - INFO - [221/407] Пропускаем бота: IMarket (beta) 🛍️
+2026-04-22 23:59:37,120 - INFO - [222/407] Пропускаем бота: BetaGuard
+2026-04-22 23:59:37,123 - INFO - [223/407] Пропускаем бота: Гивер бот
+2026-04-22 23:59:37,125 - INFO - [224/407] Пропускаем бота: Socks5 Buy
+2026-04-22 23:59:37,125 - INFO - [225/407] Пропускаем бота: QuickPremium
+2026-04-22 23:59:37,126 - INFO - [226/407] Пропускаем бота: EpicClick
+2026-04-22 23:59:37,127 - INFO - [227/407] Пропускаем бота: [PANEL] FOX BOTNET
+2026-04-22 23:59:37,127 - INFO - [228/407] Пропускаем бота: AV Market
+2026-04-22 23:59:37,127 - INFO - [229/407] Пропускаем бота: Sell Numbers
+2026-04-22 23:59:37,128 - INFO - [230/407] Пропускаем бота: TORT BOT
+2026-04-22 23:59:37,128 - INFO - [231/407] Пропускаем бота: dice test bot
+2026-04-22 23:59:37,129 - INFO - [232/407] Пропускаем бота: test
+2026-04-22 23:59:37,129 - INFO - [233/407] Пропускаем бота: Best of Premium
+2026-04-22 23:59:37,130 - INFO - [234/407] Пропускаем бота: fr premium
+2026-04-22 23:59:37,173 - ERROR - [235/407] Ошибка отправки в BetaGram News: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:59:37,215 - ERROR - [236/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:37,290 - INFO - [237/407] Успешно отправлено в: @Onion_vf -> @Unsupported_characters
+2026-04-22 23:59:37,291 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:39,299 - INFO - [238/407] Пропускаем бота: Verify Bot
+2026-04-22 23:59:39,342 - ERROR - [239/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:39,342 - INFO - [240/407] Пропускаем бота: Gift Battle
+2026-04-22 23:59:39,385 - ERROR - [241/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:39,386 - INFO - [242/407] Пропускаем бота: Like
+2026-04-22 23:59:39,387 - INFO - [243/407] Пропускаем бота: Emoji ID
+2026-04-22 23:59:39,433 - ERROR - [244/407] Ошибка отправки в ...: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:39,433 - INFO - [245/407] Пропускаем бота: [⚠️] 🎲 MemDice
+2026-04-22 23:59:39,478 - ERROR - [246/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:39,677 - INFO - [247/407] Успешно отправлено в: 🎲 MemDice | News
+2026-04-22 23:59:39,678 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:41,735 - ERROR - [248/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:41,788 - ERROR - [249/407] Ошибка отправки в Jurck: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:41,790 - INFO - [250/407] Пропускаем бота: frame casino
+2026-04-22 23:59:41,790 - INFO - [251/407] Пропускаем бота: Просмотры поста
+2026-04-22 23:59:41,791 - INFO - [252/407] Пропускаем бота: NftCakeBot (NEW)
+2026-04-22 23:59:41,791 - INFO - [253/407] Пропускаем бота: Какими чатами я владею? [TEST]
+2026-04-22 23:59:41,840 - ERROR - [254/407] Ошибка отправки в @beetle: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:41,888 - ERROR - [255/407] Ошибка отправки в ­­­­: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:41,936 - ERROR - [256/407] Ошибка отправки в Паничка @maniak: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:41,984 - ERROR - [257/407] Ошибка отправки в фантом: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:42,031 - ERROR - [258/407] Ошибка отправки в Avjx2d6 Test: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:42,031 - INFO - [259/407] Пропускаем бота: SASHA MOROZOVA
+2026-04-22 23:59:42,078 - ERROR - [260/407] Ошибка отправки в IDevs Messages: RPCError 403: ALLOW_PAYMENT_REQUIRED_10000 (caused by SendMessageRequest)
+2026-04-22 23:59:42,126 - ERROR - [261/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:42,126 - INFO - [262/407] Пропускаем бота: Wallet
+2026-04-22 23:59:42,333 - INFO - [263/407] Успешно отправлено в: Test anal
+2026-04-22 23:59:42,334 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:44,391 - ERROR - [264/407] Ошибка отправки в Kwiken story: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:44,436 - ERROR - [265/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:44,479 - ERROR - [266/407] Ошибка отправки в Real Niger: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:59:44,479 - INFO - [267/407] Пропускаем бота: Previews
+2026-04-22 23:59:44,479 - INFO - [268/407] Пропускаем бота: Test Attach
+2026-04-22 23:59:44,480 - INFO - [269/407] Пропускаем бота: Autologin Test Bot
+2026-04-22 23:59:44,480 - INFO - [270/407] Пропускаем бота: Oauth Bot
+2026-04-22 23:59:44,480 - INFO - [271/407] Пропускаем бота: Stickers
+2026-04-22 23:59:44,528 - ERROR - [272/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:44,605 - INFO - [273/407] Успешно отправлено в: Onion ᴘʀɪᴄᴇ
+2026-04-22 23:59:44,605 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:46,698 - INFO - [274/407] Успешно отправлено в: Onion ʙɪᴏ
+2026-04-22 23:59:46,699 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:48,751 - ERROR - [275/407] Ошибка отправки в 2ND ACCOUNT WHATSAPP NUMBER VIP 🤖: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:59:48,804 - ERROR - [276/407] Ошибка отправки в 𝙈𝘼𝙀𝙎𝙏𝙍𝙊: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:48,852 - ERROR - [277/407] Ошибка отправки в @xieworld_vf: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:48,902 - ERROR - [278/407] Ошибка отправки в lol man: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:48,952 - ERROR - [279/407] Ошибка отправки в dnrsl non-shitpost: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:59:48,998 - ERROR - [280/407] Ошибка отправки в 𝐆𝐈𝐅𝐓 𝐓𝐄𝐋: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:49,041 - ERROR - [281/407] Ошибка отправки в TORT: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:59:49,041 - INFO - [282/407] Пропускаем бота: Craft Test
+2026-04-22 23:59:49,088 - ERROR - [283/407] Ошибка отправки в Pologift: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:59:49,134 - ERROR - [284/407] Ошибка отправки в crony: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:49,182 - ERROR - [285/407] Ошибка отправки в Анонимные сообщения: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:59:49,182 - INFO - [286/407] Пропускаем бота: TestNFT Wallet
+2026-04-22 23:59:49,230 - ERROR - [287/407] Ошибка отправки в Test: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:49,230 - INFO - [288/407] Пропускаем бота: anonymous message
+2026-04-22 23:59:49,275 - ERROR - [289/407] Ошибка отправки в kodeine: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:49,322 - ERROR - [290/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:49,366 - ERROR - [291/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:49,367 - INFO - [292/407] Пропускаем бота: TEST BOT
+2026-04-22 23:59:49,413 - ERROR - [293/407] Ошибка отправки в Flaxe_Virt 40+ reviews: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:49,457 - ERROR - [294/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:49,501 - ERROR - [295/407] Ошибка отправки в CHELOVECHEK: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:49,502 - INFO - [296/407] Пропускаем бота: Fragment Stel
+2026-04-22 23:59:49,549 - ERROR - [297/407] Ошибка отправки в dddurovfffgagment: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:59:49,591 - ERROR - [298/407] Ошибка отправки в FOX BOTNET: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:59:49,641 - ERROR - [299/407] Ошибка отправки в hhfggf: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:49,687 - ERROR - [300/407] Ошибка отправки в ВыВоодКоВыЙ: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:49,688 - INFO - [301/407] Пропускаем бота: BUTTON TEST
+2026-04-22 23:59:49,766 - INFO - [302/407] Успешно отправлено в: ebem test
+2026-04-22 23:59:49,767 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:51,902 - ERROR - [303/407] Ошибка отправки в TORT RELAYER: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:51,967 - ERROR - [304/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:52,034 - ERROR - [305/407] Ошибка отправки в 𝓕𝓸𝓻𝓮𝓿𝓮𝓻: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:52,083 - ERROR - [306/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:52,150 - ERROR - [307/407] Ошибка отправки в Unsupported characters: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:52,219 - ERROR - [308/407] Ошибка отправки в farid: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:52,306 - INFO - [309/407] Успешно отправлено в: Продам за 3 торта.
+2026-04-22 23:59:52,309 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:54,385 - ERROR - [310/407] Ошибка отправки в тест: An invalid Peer was used. Make sure to pass the right peer type and that the value is valid (for instance, bots cannot start conversations) (caused by SendMessageRequest)
+2026-04-22 23:59:54,385 - INFO - [311/407] Пропускаем бота: NFTBuyer_Bot
+2026-04-22 23:59:54,450 - INFO - [312/407] Успешно отправлено в: dddurovfffgagment Messages
+2026-04-22 23:59:54,450 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-22 23:59:56,507 - ERROR - [313/407] Ошибка отправки в Канал гивера: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:59:56,554 - ERROR - [314/407] Ошибка отправки в Фарид: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:56,601 - ERROR - [315/407] Ошибка отправки в Sherzodbek: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:56,647 - ERROR - [316/407] Ошибка отправки в аляля: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:56,693 - ERROR - [317/407] Ошибка отправки в Бибоп Новогодняя: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:56,694 - INFO - [318/407] Пропускаем бота: Cakes For Numbers Bot
+2026-04-22 23:59:56,737 - ERROR - [319/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:56,782 - ERROR - [320/407] Ошибка отправки в 𝙂𝙤𝙪𝙨𝙩 #tbc: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:56,830 - ERROR - [321/407] Ошибка отправки в 𝑪𝑯𝑰𝑭𝑰𝑹 #tbc: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:56,880 - ERROR - [322/407] Ошибка отправки в test123: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:56,924 - ERROR - [323/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:56,967 - ERROR - [324/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:57,015 - ERROR - [325/407] Ошибка отправки в [T] ꪑﺃᦓꪻꫀ᥅ ᥇ﺃꫀᦓꪻ ඞ: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:57,061 - ERROR - [326/407] Ошибка отправки в Рефиралovv i.c: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:57,106 - ERROR - [327/407] Ошибка отправки в ­­­­­: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:57,106 - INFO - [328/407] Пропускаем бота: [🧅] ᴋᴡɪᴋᴇɴ | @kwiken
+2026-04-22 23:59:57,148 - ERROR - [329/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:57,149 - INFO - [330/407] Пропускаем бота: @xieworld_vf
+2026-04-22 23:59:57,149 - INFO - [331/407] Пропускаем бота: @xieworld_vf
+2026-04-22 23:59:57,149 - INFO - [332/407] Пропускаем бота: @xieworld_vf
+2026-04-22 23:59:57,149 - INFO - [333/407] Пропускаем бота: Sender
+2026-04-22 23:59:57,150 - INFO - [334/407] Пропускаем бота: starsellerbetaBot
+2026-04-22 23:59:57,150 - INFO - [335/407] Пропускаем бота: WikipicBot
+2026-04-22 23:59:57,150 - INFO - [336/407] Пропускаем бота: Image Bot
+2026-04-22 23:59:57,195 - ERROR - [337/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:57,245 - ERROR - [338/407] Ошибка отправки в Dreyze: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:57,246 - INFO - [339/407] Пропускаем бота: Wallet
+2026-04-22 23:59:57,291 - ERROR - [340/407] Ошибка отправки в Robtop: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:59:57,339 - ERROR - [341/407] Ошибка отправки в Bot: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:57,381 - ERROR - [342/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:57,426 - ERROR - [343/407] Ошибка отправки в ХУЙНЯ А НЕ КАНАЛ: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:59:57,471 - ERROR - [344/407] Ошибка отправки в АЛЬТУХИ 🔞: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:59:57,513 - ERROR - [345/407] Ошибка отправки в АЛЬТУХИ🔞: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-22 23:59:57,700 - ERROR - [346/407] Ошибка отправки в metrofanov | небожитель: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:57,746 - ERROR - [347/407] Ошибка отправки в FOX CAKE MARKET: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:57,791 - ERROR - [348/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:57,838 - ERROR - [349/407] Ошибка отправки в kipter: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:57,838 - INFO - [350/407] Пропускаем бота: ChatGuard
+2026-04-22 23:59:57,881 - ERROR - [351/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-22 23:59:57,926 - ERROR - [352/407] Ошибка отправки в паник: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:57,974 - ERROR - [353/407] Ошибка отправки в Sherben: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:58,022 - ERROR - [354/407] Ошибка отправки в trustov: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:58,072 - ERROR - [355/407] Ошибка отправки в I'm leaving: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:58,118 - ERROR - [356/407] Ошибка отправки в 20: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:58,167 - ERROR - [357/407] Ошибка отправки в [🤡] Asleep: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:58,214 - ERROR - [358/407] Ошибка отправки в ❄️ Kou @Kounex #hodm ❄️: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:58,259 - ERROR - [359/407] Ошибка отправки в 𝐏𝐫𝐲𝐦𝐥𝐚𝐧: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:58,310 - ERROR - [360/407] Ошибка отправки в Новогодний микеланджело: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:58,355 - ERROR - [361/407] Ошибка отправки в [FOX] ChocoBoy: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:58,400 - ERROR - [362/407] Ошибка отправки в hapix: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:58,400 - INFO - [363/407] Пропускаем бота: NFT 2 Star
+2026-04-22 23:59:58,403 - INFO - [364/407] Пропускаем бота: Channels
+2026-04-22 23:59:58,403 - INFO - [365/407] Пропускаем бота: Gift Movements
+2026-04-22 23:59:58,451 - ERROR - [366/407] Ошибка отправки в Ll: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:58,505 - ERROR - [367/407] Ошибка отправки в Pologift: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:58,551 - ERROR - [368/407] Ошибка отправки в îğŋøŗ: Too many requests (caused by SendMessageRequest)
+2026-04-22 23:59:58,552 - INFO - [369/407] Пропускаем бота: lol
+2026-04-22 23:59:58,552 - INFO - [370/407] Пропускаем бота: Бот-генератор #frz
+2026-04-22 23:59:58,643 - INFO - [371/407] Успешно отправлено в: [🧅] Банк 🏦
+2026-04-22 23:59:58,645 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-23 00:00:00,708 - INFO - [372/407] Успешно отправлено в: тест скрипта хуййй
+2026-04-23 00:00:00,709 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-23 00:00:02,767 - ERROR - [373/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-23 00:00:02,810 - ERROR - [374/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-23 00:00:02,855 - ERROR - [375/407] Ошибка отправки в 𝗙𝗮𝘇𝗲 𝗺𝗼𝗿𝗼𝘇𝗼𝘃 (𝗴𝗮𝗿𝗮𝗻𝘁 0%): Too many requests (caused by SendMessageRequest)
+2026-04-23 00:00:02,907 - ERROR - [376/407] Ошибка отправки в Corrupter: Too many requests (caused by SendMessageRequest)
+2026-04-23 00:00:02,955 - ERROR - [377/407] Ошибка отправки в [🅵] Mallblor(garant 0%)🌸 #противскама: Too many requests (caused by SendMessageRequest)
+2026-04-23 00:00:03,018 - ERROR - [378/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-23 00:00:03,101 - INFO - [379/407] Успешно отправлено в: Onion ʀᴇᴠ
+2026-04-23 00:00:03,101 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-23 00:00:05,107 - INFO - [380/407] Пропускаем бота: NFT Gifts Price Calculator
+2026-04-23 00:00:05,154 - ERROR - [381/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-23 00:00:05,202 - ERROR - [382/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-23 00:00:05,251 - ERROR - [383/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-23 00:00:05,302 - ERROR - [384/407] Ошибка отправки в [ЭКОНОМИСТ] Tyler Durden: Too many requests (caused by SendMessageRequest)
+2026-04-23 00:00:05,354 - ERROR - [385/407] Ошибка отправки в nov: Too many requests (caused by SendMessageRequest)
+2026-04-23 00:00:05,421 - ERROR - [386/407] Ошибка отправки в веззи.max: Too many requests (caused by SendMessageRequest)
+2026-04-23 00:00:05,472 - ERROR - [387/407] Ошибка отправки в TaLenSea: Too many requests (caused by SendMessageRequest)
+2026-04-23 00:00:05,516 - ERROR - [388/407] Ошибка отправки в None: The specified user was deleted (caused by SendMessageRequest)
+2026-04-23 00:00:05,516 - INFO - [389/407] Пропускаем бота: Модератор
+2026-04-23 00:00:05,517 - INFO - [390/407] Пропускаем бота: Tenor GIF Search Test
+2026-04-23 00:00:05,517 - INFO - [391/407] Пропускаем бота: Youtube Videos
+2026-04-23 00:00:05,571 - ERROR - [392/407] Ошибка отправки в 𝐦𝐦𝐝: Too many requests (caused by SendMessageRequest)
+2026-04-23 00:00:05,618 - ERROR - [393/407] Ошибка отправки в w ;): Too many requests (caused by SendMessageRequest)
+2026-04-23 00:00:05,664 - ERROR - [394/407] Ошибка отправки в Шаббат: Too many requests (caused by SendMessageRequest)
+2026-04-23 00:00:05,706 - ERROR - [395/407] Ошибка отправки в Wallet News: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-23 00:00:05,752 - ERROR - [396/407] Ошибка отправки в wallhack: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-23 00:00:05,797 - ERROR - [397/407] Ошибка отправки в price ton: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-23 00:00:05,839 - ERROR - [398/407] Ошибка отправки в Wallet Tips: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-23 00:00:05,883 - ERROR - [399/407] Ошибка отправки в Канал Dotka: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-23 00:00:05,927 - ERROR - [400/407] Ошибка отправки в BN — FAQ & SLANG: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2026-04-23 00:00:06,015 - INFO - [401/407] Успешно отправлено в: Деньги За Задания | Выплаты
+2026-04-23 00:00:06,016 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-23 00:00:08,091 - INFO - [402/407] Успешно отправлено в: к
+2026-04-23 00:00:08,091 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-23 00:00:10,293 - INFO - [403/407] Успешно отправлено в: Чат геев
+2026-04-23 00:00:10,293 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-23 00:00:12,393 - INFO - [404/407] Успешно отправлено в: @kwiken_price
+2026-04-23 00:00:12,394 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-23 00:00:14,467 - INFO - [405/407] Успешно отправлено в: Jejsej
+2026-04-23 00:00:14,467 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-23 00:00:16,562 - INFO - [406/407] Успешно отправлено в: https://t.me/+7fxqt7cOaPxjODFi
+2026-04-23 00:00:16,562 - INFO - Ожидание 2 секунд перед следующей отправкой...
+2026-04-23 00:00:18,649 - INFO - [407/407] Успешно отправлено в: Test Username
+2026-04-23 00:00:18,649 - INFO - ==================================================
+2026-04-23 00:00:18,650 - INFO - Рассылка успешно завершена!
+2026-04-23 00:00:18,650 - INFO - Всего чатов на аккаунте: 407
+2026-04-23 00:00:18,650 - INFO - Успешных отправок: 88
+2026-04-23 00:00:18,650 - INFO - Неудачных отправок: 222
+2026-04-23 00:00:18,651 - INFO - Пропущено (боты): 97
+2026-04-23 00:00:18,651 - INFO - ==================================================
+2026-04-23 00:00:18,651 - INFO - Disconnecting from 149.154.167.40:80/TcpFull...
+2026-04-23 00:00:18,652 - INFO - Disconnection from 149.154.167.40:80/TcpFull complete!

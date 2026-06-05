@@ -1,0 +1,23 @@
+2026-03-13 19:16:09: [969434663]: /start
+2026-03-13 19:16:26: [969434663]: /start
+2026-03-13 19:16:48: [969434663]: ['/start - start online monitoring ',
+         '/stop - stop online monitoring ',
+         '/help - show help ',
+         '/add - add user to monitoring list "/add +79991234567 UserName"',
+         '/list - show added users',
+         '/clear - clear user list',
+         '/remove - remove user from list with position in list (to show use /list command)"/remove 1"',
+         '/setdelay - set delay between user check in seconds',
+         '/logs - display command log',
+         '/clearlogs - clear the command log file',
+         '/cleardata - reset configuration',
+         '/disconnect - disconnect bot',
+         '/getall - status']
+2026-03-13 19:17:20: [969434663]: /help
+2026-03-13 19:17:37: [969434663]: /add
+2026-03-13 19:18:18: [969434663]: /add +375336765504 Doveriano
+2026-03-13 19:18:30: [969434663]: /list
+2026-03-13 19:18:46: [969434663]: /setdelay
+2026-03-13 19:18:57: [969434663]: /setdelay
+2026-03-13 19:19:00: [969434663]: /start
+2026-03-13 19:19:16: [969434663]: /getall

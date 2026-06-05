@@ -1,0 +1,6 @@
+star = "<tg-emoji emoji-id='5370714027913641985'>⭐️</tg-emoji>"
+star_two = "<tg-emoji emoji-id='5372892499750682625'>⭐️</tg-emoji>"
+code = "<tg-emoji emoji-id='5370585277679009793'>👨‍💻</tg-emoji>"
+menu = "<tg-emoji emoji-id='5370693553804541953'>🧅</tg-emoji>"
+toch = "<tg-emoji emoji-id='5371039315851739137'>🧅</tg-emoji>"
+skrep = "<tg-emoji emoji-id='5373137055188516865'>📎</tg-emoji>"

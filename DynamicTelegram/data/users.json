@@ -1,0 +1,34 @@
+{
+  "969434663": {
+    "phone": "+375333986766",
+    "session": "sessions/969434663",
+    "authorized": true,
+    "animation_running": false,
+    "current_preset": "clock",
+    "speed": 1.0,
+    "custom_frames": [
+      "KWIKEN",
+      "KWIKEn",
+      "KWIKen",
+      "KWIken",
+      "KWiken",
+      "Kwiken",
+      "kwiken",
+      "Kwiken",
+      "KWiken",
+      "KWIKen",
+      "KWIKEn"
+    ],
+    "settings": {
+      "show_time": false,
+      "time_format": "24h",
+      "show_date": false,
+      "show_emoji_clock": false,
+      "show_weather": false,
+      "weather_city": "",
+      "prefix": "",
+      "suffix": "",
+      "separator": " | "
+    }
+  }
+}

@@ -1,0 +1,6 @@
+Ivan:5
+Masha:4
+Pety:2
+Anna:5
+Dima:3
+Katya:2

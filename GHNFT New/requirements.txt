@@ -1,0 +1,4 @@
+Kurigram==2.2.15
+pyaes==1.6.1
+PySocks==1.7.1
+TgCrypto==1.2.5
